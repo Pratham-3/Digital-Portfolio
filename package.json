@@ -1,13 +1,13 @@
 {
     "name": "Digital-Portfolio",
     "description": "An open source digital Portfolio designed with ReactJSX and with different ParticlesJS background on all sections.",
-    "homepage": "",
+    "homepage": "https://Lakshay1312.github.io/Digital-Portfolio",
     "version": "1.0.0",
     "private": true,
     "author": {
-        "name": "Anglesvar",
-        "email": "anglesvar.cheenu98@gmail.com",
-        "url": "https://github.com/anglesvar"
+        "name": "Lakshay",
+        "email": "lakshaychhikara9@gmail.com",
+        "url": "https://github.com/Lakshay1312"
     },
     "engines" : { 
     "node" : ">=12.0.0 <13.0.0"

@@ -2,14 +2,14 @@
     "backgroundType": "gradient",
     "plainBackgroundMode": "daylight",
     "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-    "FirstName": "Allen",
+    "FirstName": "Lakshay",
     "MiddleName": "",
-    "LastName": "Yan",
-    "devDesc": "| Engineer | Programmer | Full Stack Developer  ",
+    "LastName": "",
+    "devDesc": "| Engineer | Programmer | Data Analyst  ",
     "icons": [{
             "id": 0,
             "image": "fa-github",
-            "url": "https://github.com/anglesvar",
+            "url": "https://github.com/Lakshay1312",
             "style": "socialicons"
         },
         {
@@ -21,25 +21,25 @@
         {
             "id": 2,
             "image": "fa-instagram",
-            "url": "https://www.instagram.com/",
+            "url": "https://www.instagram.com/lakshay_430/",
             "style": "socialicons"
         },
         {
             "id": 3,
             "image": "fa-linkedin",
-            "url": "https://www.linkedin.com/",
+            "url": "https://www.linkedin.com/in/lakshay-chhikara-705917289/",
             "style": "socialicons"
         }
     ],
     "aboutHeading": "About Me",
-    "aboutDescription": "I'm Lucas, a software developer",
+    "aboutDescription": "I'm Lakshay, a BTech CSE Student",
     "projectHeading": "My Works",
-    "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "xiaoAllen1",
+    "gitHubLink": "https://github.com/Lakshay1312",
+    "gitHubUsername": "Lakshay1312",
     "gitHubQuerry": "/repos?sort=created&direction=desc",
-    "projectsLength": 4,
+    "projectsLength": 3,
     "showNavigationbar": true,
-    "resumeLink": "https://docs.google.com/document/u/1/d/e/2PACX-1vQvhekOawiaeHBGyJTfQiY7RMFNxPgzm9tFuy5gSfOzwOtprqTOgR5qcVAOypdX9YbBQRLG6b7Nr-pr/pub",
-    "mobileNumber": "888888888",
-    "emailId": "allenyan0817@gmail.com"
+    "resumeLink": "https://drive.google.com/file/d/1qdCOqXh-OWZpB15nxTVt00d1LiwGcNr3/view?usp=sharing",
+    "mobileNumber": "7355871686",
+    "emailId": "lakshaychhikara9@gmail.com"
 }
